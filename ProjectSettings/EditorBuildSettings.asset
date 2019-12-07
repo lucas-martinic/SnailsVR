@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Story.unity
+    guid: 2394d337c80209dd281d1dd42b4054af
+  - enabled: 1
+    path: Assets/Scenes/Natasha.unity
+    guid: a9500fd09378a1d42bd93d6362070bed
   m_configObjects: {}
