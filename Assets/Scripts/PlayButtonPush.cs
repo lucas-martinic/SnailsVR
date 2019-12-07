@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class EndOfText : MonoBehaviour
+public class PlayButtonPush : MonoBehaviour
 {
     void OnTriggerEnter(Collider collider) {
-        SceneManager.LoadScene("Natasha");
+        SceneManager.LoadScene("Main");
     }
 }
