@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Natasha.unity
     guid: a9500fd09378a1d42bd93d6362070bed
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: f3bbad43e77c60644998ed3913ca9b28
   m_configObjects: {}
